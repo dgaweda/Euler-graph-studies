@@ -1,4 +1,3 @@
-Dariusz Gawęda 
-# Graphs-studies
-# Uniwersytet Gdański
-# IT
+# Dariusz Gawęda 
+Graphs-studies
+University of Gdansk
