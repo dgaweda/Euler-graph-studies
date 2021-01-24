@@ -1,3 +1,3 @@
 # Dariusz Gawęda 
-- Graphs-studies <br />
+- Graphs <br />
 University of Gdansk
