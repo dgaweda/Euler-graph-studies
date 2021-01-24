@@ -1,3 +1,3 @@
 # Dariusz Gawęda 
-Graphs-studies
+1. Graphs-studies
 University of Gdansk
